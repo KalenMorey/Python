@@ -1,2 +1,2 @@
-# Tech-Academy-
-Projects worked on while attending the Tech Academy 
+
+Python projects completed while attending the Tech Academy.  Some are for school others for pleasure!
